@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jun 16 22:24:50 EDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0181-6f7a-39c9-000006cc5db8 
+on database directory /Users/Cameron/Library/Mobile Documents/com~apple~CloudDocs/Western/Western 2.2/SE 2203/SE 2203 Code/cblatt_Assignment3Prototype/AdminApp/DB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@312b1dae 
+Loaded from file:/Users/Cameron/Library/Mobile%20Documents/com~apple~CloudDocs/Western/Western%202.2/SE%202203/SE%202203%20Code/cblatt_Assignment3Prototype/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=/Users/Cameron/Library/Mobile Documents/com~apple~CloudDocs/Western/Western 2.2/SE 2203/SE 2203 Code/cblatt_Assignment3Prototype/AdminApp
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
